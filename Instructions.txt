@@ -1,0 +1,6 @@
+In 4.1: 
+Required to implement , , , , , , , , , , , , BLT, and BGE instructions 
+
+Done ANDI, BEQ, ADDI, ADD, BNE, LW, SW, XOR, OR, SUB, NOT, AND
+
+Option to implement SLL, SRL, SRA, SLLI, SRLI, SRAI, JAL, JALR, LH, LB, SH and SB as extra credit.

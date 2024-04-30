@@ -1,6 +1,6 @@
 #ifndef TASK1_H
 #define TASK1_H
 
-int get_str_size(const char *str);
+const char* check_even_odd(int num)
 
 #endif 
